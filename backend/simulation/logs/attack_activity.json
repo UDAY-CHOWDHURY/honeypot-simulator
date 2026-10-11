@@ -1,0 +1,66 @@
+
+{"timestamp": "2025-11-14T03:49:30.427130Z", "ip": "127.0.0.1", "packet_size": 1142, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T03:50:21.567365Z", "ip": "127.0.0.1", "packet_size": 757, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T03:51:43.836585Z", "ip": "127.0.0.1", "packet_size": 481, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T03:52:58.355917Z", "ip": "127.0.0.1", "packet_size": 549, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T03:53:36.138228Z", "ip": "127.0.0.1", "packet_size": 891, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T03:54:03.769630Z", "ip": "127.0.0.1", "packet_size": 565, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:11:14.248689Z", "ip": "127.0.0.1", "packet_size": 437, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:11:56.779155Z", "ip": "127.0.0.1", "packet_size": 474, "command": "ping google", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:14:59.161963Z", "ip": "127.0.0.1", "packet_size": 785, "command": "ping google.com", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:15:37.061546Z", "ip": "127.0.0.1", "packet_size": 439, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:30:35.220980Z", "ip": "127.0.0.1", "packet_size": 819, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:44:35.233903Z", "ip": "127.0.0.1", "packet_size": 836, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:46:21.513449Z", "ip": "127.0.0.1", "packet_size": 448, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T04:47:35.353644Z", "ip": "127.0.0.1", "packet_size": 416, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:01:02.227168Z", "ip": "127.0.0.1", "packet_size": 1192, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:01:31.684915Z", "ip": "127.0.0.1", "packet_size": 528, "command": "ping", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:04:12.978535Z", "ip": "127.0.0.1", "packet_size": 991, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:43:37.211859Z", "ip": "127.0.0.1", "packet_size": 675, "command": "systeminfo", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:44:38.153813Z", "ip": "127.0.0.1", "packet_size": 1074, "command": "tasklist", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:46:19.436867Z", "ip": "127.0.0.1", "packet_size": 584, "command": "systeminfo", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:47:38.703734Z", "ip": "127.0.0.1", "packet_size": 585, "command": "dir", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T05:47:58.731343Z", "ip": "127.0.0.1", "packet_size": 644, "command": "ver", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:05:44.352180Z", "ip": "127.0.0.1", "packet_size": 1193, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:10:38.800405Z", "ip": "127.0.0.1", "packet_size": 822, "command": "ping <google>", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:11:33.847567Z", "ip": "127.0.0.1", "packet_size": 768, "command": "ping google", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:12:24.406359Z", "ip": "127.0.0.1", "packet_size": 919, "command": "tasklist", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:15:03.823118Z", "ip": "127.0.0.1", "packet_size": 1011, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:16:45.258371Z", "ip": "127.0.0.1", "packet_size": 762, "command": "erase", "harmful": true, "severity": "low"}
+{"timestamp": "2025-11-14T06:18:13.536409Z", "ip": "127.0.0.1", "packet_size": 935, "command": "chmod", "harmful": true, "severity": "medium"}
+{"timestamp": "2025-11-14T06:21:54.036747Z", "ip": "127.0.0.1", "packet_size": 1193, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:27:45.668981Z", "ip": "127.0.0.1", "packet_size": 712, "command": "help", "harmful": false, "severity": "low"}y
+{"timestamp": "2025-11-14T06:32:31.194382Z", "ip": "127.0.0.1", "packet_size": 1197, "command": "chmod", "harmful": true, "severity": "medium"}
+{"timestamp": "2025-11-14T06:36:11.408150Z", "ip": "127.0.0.1", "packet_size": 722, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-14T06:36:11.408150Z", "ip": "127.0.0.1", "packet_size": 722, "command": "del", "harmful": true, "severity": "high"}
+{"timestamp": "2025-11-14T06:36:11.408150Z", "ip": "127.0.0.1", "packet_size": 722, "command": "del", "harmful": true, "severity": "high"}
+{"timestamp": "2025-11-14T06:36:11.408150Z", "ip": "127.0.0.1", "packet_size": 722, "command": "del", "harmful": true, "severity": "high"}
+{"timestamp": "2025-11-14T06:36:11.408150Z", "ip": "127.0.0.1", "packet_size": 722, "command": "del", "harmful": true, "severity": "high"}
+{"timestamp": "2025-11-14T06:18:13.536409Z", "ip": "127.0.0.1", "packet_size": 935, "command": "wireshark", "harmful": true, "severity": "medium"}
+{"timestamp": "2025-11-14T06:18:13.536409Z", "ip": "127.0.0.1", "packet_size": 935, "command": "wireshark", "harmful": true, "severity": "medium"}
+{"timestamp": "2025-11-14T06:18:13.536409Z", "ip": "127.0.0.1", "packet_size": 935, "command": "wireshark", "harmful": true, "severity": "medium"}
+{"timestamp": "2025-11-14T06:18:13.536409Z", "ip": "127.0.0.1", "packet_size": 935, "command": "wireshark", "harmful": true, "severity": "medium"}
+{"timestamp": "2025-11-30T16:02:17.830330Z", "ip": "127.0.0.1", "packet_size": 1146, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:02:19.754676Z", "ip": "127.0.0.1", "packet_size": 1122, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:03:38.196711Z", "ip": "127.0.0.1", "packet_size": 958, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:12:39.429216Z", "ip": "127.0.0.1", "packet_size": 949, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:13:35.619762Z", "ip": "127.0.0.1", "packet_size": 960, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:14:28.522620Z", "ip": "127.0.0.1", "packet_size": 826, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:23:58.662284Z", "ip": "127.0.0.1", "packet_size": 539, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:24:40.396525Z", "ip": "127.0.0.1", "packet_size": 1123, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-11-30T16:25:03.542765Z", "ip": "127.0.0.1", "packet_size": 848, "command": "chmod", "harmful": true, "severity": "medium"}
+{"timestamp": "2025-12-01T05:33:31.733169Z", "ip": "127.0.0.1", "packet_size": 695, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:33:34.461872Z", "ip": "127.0.0.1", "packet_size": 868, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:34:22.833886Z", "ip": "127.0.0.1", "packet_size": 439, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:34:58.232970Z", "ip": "127.0.0.1", "packet_size": 1103, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:35:25.952360Z", "ip": "127.0.0.1", "packet_size": 1141, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:36:06.682684Z", "ip": "127.0.0.1", "packet_size": 691, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:37:15.764812Z", "ip": "127.0.0.1", "packet_size": 947, "command": "dir", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:37:22.044711Z", "ip": "127.0.0.1", "packet_size": 912, "command": "dir", "harmful": false, "severity": "low"}
+{"timestamp": "2025-12-01T05:37:27.863310Z", "ip": "127.0.0.1", "packet_size": 863, "command": "dir", "harmful": false, "severity": "low"}
+ {"timestamp": "2026-03-13T07:02:06.163162Z", "ip": "127.0.0.1", "packet_size": 922, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2026-03-13T07:03:08.967821Z", "ip": "127.0.0.1", "packet_size": 1089, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2026-03-13T07:15:28.697732Z", "ip": "127.0.0.1", "packet_size": 525, "command": "help", "harmful": false, "severity": "low"}
+{"timestamp": "2026-03-13T07:15:49.434152Z", "ip": "127.0.0.1", "packet_size": 784, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2026-03-13T07:15:55.973545Z", "ip": "127.0.0.1", "packet_size": 471, "command": "ipconfig", "harmful": false, "severity": "low"}
+{"timestamp": "2026-03-13T07:16:17.951142Z", "ip": "127.0.0.1", "packet_size": 589, "command": "nmap", "harmful": false, "severity": "low"}

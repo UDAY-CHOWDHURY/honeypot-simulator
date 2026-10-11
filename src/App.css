@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.blinking-cursor {
+  display: inline-block;
+  width: 10px;
+  animation: blink 1s step-start infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+.blinking-cursor {
+  animation: blink 1s step-start infinite;
+  color: white; /* or whatever color you want */
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
